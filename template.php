@@ -16,12 +16,12 @@
                     <tr>
                          <td>Nama</td>
                          <td> : </td>
-                         <td>Muhammad Syihab Habibi / C / Praktikum Web Programming</td>
+                         <td>Muhammad Syihab Habibi / Tsabit Gholib / Yunita Endah Sulistiyowati</td>
                     </tr>
                     <tr>
                          <td>NIM</td>
                          <td> : </td>
-                         <td>32602100088</td>
+                         <td>32602100088 / 32602100120 / 32602100125</td>
                     </tr>
                </table>
           </nav>
